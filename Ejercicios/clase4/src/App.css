@@ -1,0 +1,20 @@
+.bg-verde{
+  background-color: green;
+}
+
+.bg-amarillo{
+  background-color: yellow;
+}
+
+.bg-rojo{
+  background-color: brown;
+}
+
+.btn{
+
+}
+
+.btn-disable{
+  background-color: aliceblue;
+  cursor: not-allowed;
+}
